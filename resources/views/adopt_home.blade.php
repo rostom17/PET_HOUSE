@@ -1150,26 +1150,6 @@
             </div>
         </section>
 
-        <!-- Quick Actions Section -->
-        <section class="quick-actions-section">
-            <div class="quick-actions-tabs">
-                <div class="action-tab" onclick="toggleFavorites()">
-                    <div class="action-tab-icon">
-                        <i class="fas fa-heart"></i>
-                    </div>
-                    <h3>Show Favorites</h3>
-                    <p>View your saved pets</p>
-                </div>
-                <a href="{{ route('first.time.adopter') }}" class="action-tab action-tab-link">
-                    <div class="action-tab-icon">
-                        <i class="fas fa-graduation-cap"></i>
-                    </div>
-                    <h3>Haven't adopted a pet before</h3>
-                    <p>New to pet adoption? Get guidance</p>
-                </a>
-            </div>
-        </section>
-
         <section class="pets-section">
             <div class="pets-content">
                 <div class="section-header">

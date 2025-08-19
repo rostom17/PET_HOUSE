@@ -852,7 +852,7 @@
                         </div>
                         <div class="contact-details">
                             <h4>Call Us</h4>
-                            <p>+880 1234-567890</p>
+                            <p>+880 1609192668</p>
                             <span class="contact-note">Available during business hours</span>
                         </div>
                     </div>
@@ -998,14 +998,11 @@
 
 @section('scripts')
     <script>
-        // Function to start adoption process
         function startAdoptionProcess() {
-            // Get current pet name from the page (Blade variable)
             var petName = @json($adoptionPost->pet_name ?? 'milo');
-            window.location.href = `/adoption-form?pet=${encodeURIComponent(petName)}`;
+            alert('Addoption Process is Pending for ' + petName + '. We will reach to you soon.');
         }
 
-        // Function to schedule a visit
         function scheduleVisit() {
             var petName = @json($adoptionPost->pet_name ?? 'milo');
             alert('Scheduling a visit to meet ' + petName + '. This will open the visit scheduling system.');
