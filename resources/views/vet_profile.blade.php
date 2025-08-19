@@ -1,6 +1,6 @@
 @extends('layouts.app')
 
-@section('title', 'Dr. {{ $vet->name }} - Veterinary Profile - PETSROLOGY')
+@section('title', 'Dr. {{ $vet->name }} - Veterinary Profile - PETHOUSE')
 
 @section('styles')
     <style>

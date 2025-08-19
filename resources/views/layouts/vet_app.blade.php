@@ -4,7 +4,7 @@
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <meta name="csrf-token" content="{{ csrf_token() }}">
-    <title>@yield('title', 'PETSROLOGY')</title>
+    <title>@yield('title', 'PETHOUSE')</title>
     <link href="https://fonts.googleapis.com/css2?family=Nunito:wght@400;600;700&display=swap" rel="stylesheet">
     <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.0.0/css/all.min.css">
     <style>
@@ -244,7 +244,7 @@
                     <div class="brand-logo">
                         🐾
                     </div>
-                    <span class="brand-text">PETSROLOGY</span>
+                    <span class="brand-text">PETHOUSE</span>
                 </a>
                 <ul class="navbar-nav">
                     <li class="nav-item">
@@ -271,7 +271,7 @@
     <footer>
         <div class="footer-container">
             <div class="footer-section">
-                <h3>About PETSROLOGY</h3>
+                <h3>About PETHOUSE</h3>
                 <ul>
                     <li><a href="#">Our Story</a></li>
                     <li><a href="#">Mission & Vision</a></li>
@@ -293,12 +293,12 @@
                 <ul>
                     <li><a href="#"><i class="fas fa-map-marker-alt"></i> House 15, Road 27, Block K, Banani, Dhaka</a></li>
                     <li><a href="#"><i class="fas fa-phone"></i> +880 1711-234567</a></li>
-                    <li><a href="#"><i class="fas fa-envelope"></i> info@petsrology.com.bd</a></li>
+                    <li><a href="#"><i class="fas fa-envelope"></i> info@PETHOUSE.com.bd</a></li>
                 </ul>
             </div>
         </div>
         <div class="footer-bottom">
-            <p>&copy; 2025 PETSROLOGY. All rights reserved.</p>
+            <p>&copy; 2025 PETHOUSE. All rights reserved.</p>
         </div>
     </footer>
 </body>

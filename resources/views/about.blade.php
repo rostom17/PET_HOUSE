@@ -1,6 +1,6 @@
 @extends('layouts.app')
 
-@section('title', 'About Us - PETSROLOGY')
+@section('title', 'About Us - PETHOUSE')
 
 @section('styles')
 <style>
@@ -511,9 +511,9 @@
                              onerror="this.style.display='none'; this.parentElement.querySelector('.fas').style.display='flex';">
                         <i class="fas fa-user-tie" style="display: none;"></i>
                     </div>
-                    <h3 class="member-name">Rostom Ali</h3>
-                    <p class="member-role">Lead Full-Stack Developer</p>
-                    <p class="member-description">Passionate about creating seamless user experiences and robust backend systems. Specializes in Laravel and modern web technologies.</p>
+                    <h3 class="member-name">ROSTOM ALI</h3>
+                    <p class="member-role">Team Leader & Full-Stack Developer</p>
+                    <p class="member-description">Passionate about creating seamless user experiences and robust systems. Specializes in Mobile App, Web App and DevOps.</p>
                     <div class="member-skills">
                         <span class="skill-tag">Flutter</span>
                         <span class="skill-tag">JavaScript</span>
@@ -522,6 +522,7 @@
                         <span class="skill-tag">Laravel</span>
                         <span class="skill-tag">Firebase</span>
                         <span class="skill-tag">Web Engineering</span>
+                        <span class="skill-tag">Linux</span>
                     </div>
                 </div>
                 <div class="member-social">
@@ -537,25 +538,25 @@
             <div class="team-member">
                 <div class="member-info">
                     <div class="member-avatar">
-                        <img src="{{ asset('images/team/shafin.png') }}" alt="Tanjid Ahammed Shafin" class="member-photo" 
+                        <img src="{{ asset('images/team/saif.jpg') }}" alt="saif" class="member-photo" 
                              onerror="this.style.display='none'; this.parentElement.querySelector('.fas').style.display='flex';">
                         <i class="fas fa-paint-brush" style="display: none;"></i>
                     </div>
-                    <h3 class="member-name">Tanjid Ahammed Shafin</h3>
-                    <p class="member-role">Full Stack Developer</p>
+                    <h3 class="member-name">Abdullah Al Mamun Saif</h3>
+                    <p class="member-role">Front-End Developer</p>
                     <p class="member-description">Creates beautiful and intuitive designs that make pet adoption and care accessible to everyone. Expert in user-centered design principles.</p>
                     <div class="member-skills">
                         <span class="skill-tag">UI Design</span>
-                        <span class="skill-tag">UX Research</span>
-                        <span class="skill-tag">Figma</span>
+                        <span class="skill-tag">Web Dev</span>
+                        <span class="skill-tag">PHP</span>
                         <span class="skill-tag">CSS</span>
                     </div>
                 </div>
                 <div class="member-social">
-                    <a href="https://linkedin.com/in/sarah-chen-design" target="_blank" class="social-link linkedin">
+                    <a href=""  class="social-link linkedin">
                         <i class="fab fa-linkedin-in"></i>
                     </a>
-                    <a href="https://github.com/sarah-chen" target="_blank" class="social-link github">
+                    <a href=""  class="social-link github">
                         <i class="fab fa-github"></i>
                     </a>
                 </div>
@@ -564,25 +565,25 @@
             <div class="team-member">
                 <div class="member-info">
                     <div class="member-avatar">
-                        <img src="{{ asset('images/team/jamil.jpg') }}" alt="Jamil Hasan" class="member-photo" 
+                        <img src="{{ asset('images/team/mahfuz.jpg') }}" alt="mahfuz" class="member-photo" 
                              onerror="this.style.display='none'; this.parentElement.querySelector('.fas').style.display='flex';">
                         <i class="fas fa-code" style="display: none;"></i>
                     </div>
-                    <h3 class="member-name">Jamil Hasan</h3>
-                    <p class="member-role">Frontend Developer</p>
+                    <h3 class="member-name">Mahfuzur Rahman</h3>
+                    <p class="member-role">Front-End Developer</p>
                     <p class="member-description">Brings designs to life with clean, responsive code. Focuses on performance optimization and modern JavaScript frameworks.</p>
                     <div class="member-skills">
                         <span class="skill-tag">React</span>
                         <span class="skill-tag">Vue.js</span>
                         <span class="skill-tag">CSS3</span>
-                        <span class="skill-tag">TypeScript</span>
+                        <span class="skill-tag">JavaScript</span>
                     </div>
                 </div>
                 <div class="member-social">
-                    <a href="https://linkedin.com/in/michael-rodriguez-frontend" target="_blank" class="social-link linkedin">
+                    <a href="" class="social-link linkedin">
                         <i class="fab fa-linkedin-in"></i>
                     </a>
-                    <a href="https://github.com/michael-rodriguez" target="_blank" class="social-link github">
+                    <a href="" class="social-link github">
                         <i class="fab fa-github"></i>
                     </a>
                 </div>
@@ -591,25 +592,24 @@
             <div class="team-member">
                 <div class="member-info">
                     <div class="member-avatar">
-                        <img src="{{ asset('images/team/T2.jpg') }}" alt="Tamal" class="member-photo" 
+                        <img src="{{ asset('images/team/toufik.jpg') }}" alt="toufik" class="member-photo" 
                              onerror="this.style.display='none'; this.parentElement.querySelector('.fas').style.display='flex';">
                         <i class="fas fa-database" style="display: none;"></i>
                     </div>
-                    <h3 class="member-name">Jahangir Alam Tamal</h3>
-                    <p class="member-role">Full Stack Developer & AI Engineer</p>
+                    <h3 class="member-name">Toufik Munshi</h3>
+                    <p class="member-role">Front-End Developer</p>
                     <p class="member-description">Ensures our platform runs smoothly with scalable architecture and secure data management. Expert in API development and cloud services.</p>
                     <div class="member-skills">
                         <span class="skill-tag">Node.js</span>
                         <span class="skill-tag">MySQL</span>
                         <span class="skill-tag">Laravel</span>
-                        <span class="skill-tag">Flutter</span>
                     </div>
                 </div>
                 <div class="member-social">
-                    <a href="https://www.linkedin.com/in/jahangir-alam-tamal-8815a8268/" target="_blank" class="social-link linkedin">
+                    <a href="" class="social-link linkedin">
                         <i class="fab fa-linkedin-in"></i>
                     </a>
-                    <a href="https://github.com/fiftee15n" target="_blank" class="social-link github">
+                    <a href="" class="social-link github">
                         <i class="fab fa-github"></i>
                     </a>
                 </div>

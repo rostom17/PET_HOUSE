@@ -1,6 +1,6 @@
 @extends('layouts.app')
 
-@section('title', 'First-Time Pet Adopter Guide - PETSROLOGY')
+@section('title', 'First-Time Pet Adopter Guide - PETHOUSE')
 
 @section('styles')
     <style>

@@ -1,6 +1,6 @@
 @extends('layouts.app')
 
-@section('title', 'Contact Us - PETSROLOGY')
+@section('title', 'Contact Us - PETHOUSE')
 
 @section('styles')
     <style>
@@ -492,11 +492,11 @@
                 <h3>Contact Information</h3>
                 <div class="contact-item">
                     <i class="fas fa-map-marker-alt"></i>
-                    <p>295/2 Dhaka, Bangladesh</p>
+                    <p>Dhaka, Bangladesh</p>
                 </div>
                 <div class="contact-item">
                     <i class="fas fa-phone"></i>
-                    <p>+880 1603221681</p>
+                    <p>+8801609192668</p>
                 </div>
                 <div class="contact-item">
                     <i class="fas fa-envelope"></i>
@@ -509,12 +509,7 @@
             </div>
 
             <div class="map-container">
-                <iframe 
-                    src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3651.8987445333937!2d90.3543872!3d23.7608652!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x3755b8b087026b81%3A0x8fa563bbdd5904c2!2sDhaka%2C%20Bangladesh!5e0!3m2!1sen!2s!4v1234567890!5m2!1sen!2s"
-                    height="250" 
-                    allowfullscreen="" 
-                    loading="lazy">
-                </iframe>
+               
             </div>
 
             <div class="social-links">

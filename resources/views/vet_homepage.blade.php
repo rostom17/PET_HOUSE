@@ -1,6 +1,6 @@
 @extends('layouts.vet_app')
 
-@section('title', 'Veterinary Hub - PETSROLOGY')
+@section('title', 'Veterinary Hub - PETHOUSE')
 
 @section('styles')
 <style>
