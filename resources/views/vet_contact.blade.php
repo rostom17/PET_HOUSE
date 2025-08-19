@@ -450,7 +450,7 @@
                     </div>
                     <div class="info-content">
                         <h3>Email Us</h3>
-                        <p>petcare@petsrology.com.bd<br>support@petsrology.com.bd</p>
+                        <p>petcare@pethouse.com.bd<br>support@pethouse.com.bd</p>
                     </div>
                 </div>
 

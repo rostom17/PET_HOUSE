@@ -3,7 +3,7 @@
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Admin Dashboard - PETSROLOGY</title>
+    <title>Admin Dashboard - PETHOUSE</title>
     <link href="https://fonts.googleapis.com/css2?family=Nunito:wght@400;600;700&display=swap" rel="stylesheet">
     <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.0.0/css/all.min.css">
     <style>
@@ -414,7 +414,7 @@
                     </svg>
                 </div>
                 <div class="brand-text">
-                    <h1>PETSROLOGY</h1>
+                    <h1>PETHOUSE</h1>
                     <p>Administrator Dashboard</p>
                 </div>
             </div>
@@ -437,7 +437,7 @@
     <main class="dashboard-container">
         <section class="welcome-section">
             <h2>Welcome to Admin Dashboard</h2>
-            <p>Manage your PETSROLOGY platform from this central control panel. Monitor statistics, manage users, and oversee all platform activities.</p>
+            <p>Manage your PETHOUSE platform from this central control panel. Monitor statistics, manage users, and oversee all platform activities.</p>
         </section>
         
         <section class="stats-grid">

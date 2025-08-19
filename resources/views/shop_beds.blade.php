@@ -208,7 +208,7 @@
             </div>
         </div>
         <div style="text-align:center;margin-top:24px;color:#888;font-size:1rem;">
-            Looking for something special? <a href="mailto:support@petsrology.com" style="color:#ff6f61;text-decoration:underline;">Contact us</a> for custom bed orders!
+            Looking for something special? <a href="mailto:support@pethouse.com" style="color:#ff6f61;text-decoration:underline;">Contact us</a> for custom bed orders!
         </div>
     </div>
 @endsection

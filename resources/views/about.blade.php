@@ -445,7 +445,7 @@
 <div class="about-container">
     <!-- Hero Section -->
     <section class="hero-section">
-        <h1>About PETSROLOGY</h1>
+        <h1>About PETHOUSE</h1>
         <p>We are passionate about connecting loving families with pets in need, providing comprehensive veterinary care, and creating a better world for all animals. Our mission is to build a community where every pet finds a loving home and receives the care they deserve.</p>
     </section>
 
@@ -454,7 +454,7 @@
         <div class="mission-content">
             <div class="mission-text">
                 <h2>Our Mission & Vision</h2>
-                <p>At PETSROLOGY, we believe that every animal deserves a chance at happiness. We're dedicated to revolutionizing pet adoption, veterinary care, and pet supply services through technology and compassion.</p>
+                <p>At PETHOUSE, we believe that every animal deserves a chance at happiness. We're dedicated to revolutionizing pet adoption, veterinary care, and pet supply services through technology and compassion.</p>
                 <p>Our vision is to create a world where no pet goes without love, care, or a home. We strive to make pet adoption accessible, veterinary care affordable, and pet ownership a joyful experience for everyone.</p>
             </div>
             <div class="mission-values">

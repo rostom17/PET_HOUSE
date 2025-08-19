@@ -709,7 +709,7 @@
                     <div class="contact-item">
                         <span class="contact-icon">📧</span>
                         <h4>Email Us</h4>
-                        <p>petcare@petsrology.com.bd<br>emergency@petsrology.com.bd</p>
+                        <p>petcare@pethouse.com.bd<br>emergency@pethouse.com.bd</p>
                     </div>
                     <div class="contact-item">
                         <span class="contact-icon">🕒</span>

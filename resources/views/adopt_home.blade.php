@@ -1223,17 +1223,17 @@
                     <div class="contact-item">
                         <span class="contact-icon">📍</span>
                         <h4>Visit Us</h4>
-                        <p>House 15, Road 27, Block K<br>Banani, Dhaka-1213<br>Bangladesh</p>
+                        <p>Shop-11, Mirpur-1<br>Mirpur, Dhaka-1213<br>Bangladesh</p>
                     </div>
                     <div class="contact-item">
                         <span class="contact-icon">📞</span>
                         <h4>Call Us</h4>
-                        <p>+880 1777-123456<br>+880 1888-654321</p>
+                        <p>+880 1609192668<br>+8801751187753</p>
                     </div>
                     <div class="contact-item">
                         <span class="contact-icon">📧</span>
                         <h4>Email Us</h4>
-                        <p>adopt@petsrology.com<br>info@petsrology.com</p>
+                        <p>adopt@pethouse.com<br>info@pethouse.com</p>
                     </div>
                     <div class="contact-item">
                         <span class="contact-icon">🕐</span>

@@ -821,7 +821,7 @@
                         </svg>
                     </div>
                 </div>
-                <h1 class="hero-title fade-in-title">Welcome to PETSROLOGY</h1>
+                <h1 class="hero-title fade-in-title">Welcome to PETHOUSE</h1>
                 <p class="hero-subtitle fade-in-subtitle">Your comprehensive platform for pet care, adoption, and supplies. Connecting pet lovers with everything they need for their furry friends.</p>
             </div>
         </section>
@@ -851,7 +851,7 @@
         <!-- Welcome Section -->
         <section class="welcome-section">
             <h2>Everything Your Pet Needs, All in One Place</h2>
-            <p>From finding your perfect companion to ensuring their health and happiness, PETSROLOGY is your trusted partner in pet care.</p>
+            <p>From finding your perfect companion to ensuring their health and happiness, PETHOUSE is your trusted partner in pet care.</p>
             <div class="cta-buttons">
                 <a href="{{ url('/adopt-home') }}" class="cta-btn">Start Adopting</a>
                 <a href="{{ route('contact') }}" class="cta-btn secondary">Get in Touch</a>
@@ -895,14 +895,14 @@
                 <i class="fas fa-robot"></i>
             </div>
             <div class="chat-info">
-                <h4>Petsrology Assistant</h4>
+                <h4>Pethouse Assistant</h4>
                 <p>Online now</p>
             </div>
         </div>
         
         <div class="chat-body">
             <div class="chat-message">
-                Hi! I am Petsrology Assistant. 🐾<br>
+                Hi! I am Pethouse Assistant. 🐾<br>
                 How can I help you today with your pet care needs?
             </div>
             <button class="chat-button" id="startChatBtn">
@@ -920,7 +920,7 @@
                     <i class="fas fa-robot"></i>
                 </div>
                 <div class="iframe-title">
-                    <h4>Petsrology Assistant</h4>
+                    <h4>Pethouse Assistant</h4>
                     <p>AI-Powered Pet Care Support</p>
                 </div>
             </div>
@@ -930,7 +930,7 @@
         </div>
         <div class="iframe-loading" id="iframeLoading">
             <div class="loading-spinner"></div>
-            <div class="loading-text">Connecting to Petsrology Assistant...</div>
+            <div class="loading-text">Connecting to Pethouse Assistant...</div>
         </div>
         <iframe class="chatbot-iframe" id="chatbotFrame" src="" style="display: none;"></iframe>
     </div>

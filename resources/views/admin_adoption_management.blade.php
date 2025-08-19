@@ -5,7 +5,7 @@
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <meta name="csrf-token" content="{{ csrf_token() }}">
-    <title>Adoption Management | PETSROLOGY Admin Dashboard</title>
+    <title>Adoption Management | PETHOUSE Admin Dashboard</title>
     <link href="https://fonts.googleapis.com/css2?family=Nunito:wght@400;600;700;800&display=swap" rel="stylesheet">
     <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.0.0/css/all.min.css">
     <style>
@@ -824,7 +824,7 @@
                     </svg>
                 </div>
                 <div class="brand-text">
-                    <h1>PETSROLOGY</h1>
+                    <h1>PETHOUSE</h1>
                     <p>Administrator Dashboard</p>
                 </div>
             </div>

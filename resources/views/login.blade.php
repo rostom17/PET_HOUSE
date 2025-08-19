@@ -3,7 +3,7 @@
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Login - PETSROLOGY</title>
+    <title>Login - PETHOUSE</title>
     <link href="https://fonts.googleapis.com/css2?family=Nunito:wght@400;600;700&display=swap" rel="stylesheet">
     <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.0.0/css/all.min.css">
     <style>
@@ -297,7 +297,7 @@
                 </div>
             @endif
                 <h2>Welcome Back</h2>
-                <p>Please sign in to access your PETSROLOGY account</p>
+                <p>Please sign in to access your PETHOUSE account</p>
             </div>
             <form class="login-form" method="POST" action="{{ route('login.submit') }}">
                 @csrf
@@ -337,40 +337,30 @@
                         <ellipse cx="27" cy="11" rx="2.2" ry="2.8" fill="#fff"/>
                     </svg>
                 </div>
-                <div class="brand-name">PETSROLOGY</div>
+                <div class="brand-name">PETHOUSE</div>
             </div>
             
             <div class="contact-info">
                 <h3>Contact Information</h3>
                 <div class="contact-item">
                     <i class="fas fa-map-marker-alt"></i>
-                    <span>295/2 Dhaka, Bangladesh</span>
+                    <span>Dhaka, Bangladesh</span>
                 </div>
                 <div class="contact-item">
                     <i class="fas fa-phone-alt"></i>
-                    <span>+880 1603221681</span>
+                    <span>+8801609192668</span>
                 </div>
                 <div class="contact-item">
                     <i class="fas fa-envelope"></i>
-                    <span>contact@petsrology.com</span>
+                    <span>contact@pethouse.com</span>
                 </div>
             </div>
             
             <div class="map-container">
-                <iframe 
-                    src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d14602.704242517933!2d90.34078587228791!3d23.794460092127694!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x3755c0d7f968ddad%3A0x9fc2ef3ff2e354df!2sMirpur%20DOHS%2C%20Dhaka!5e0!3m2!1sen!2sbd!4v1718709289413!5m2!1sen!2sbd"
-                    width="100%" 
-                    height="280" 
-                    style="border:0; border-radius: 12px; margin: 20px 0;" 
-                    allowfullscreen="" 
-                    loading="lazy" 
-                    referrerpolicy="no-referrer-when-downgrade">
-                </iframe>
+                
             </div>
             <div class="view-map-link">
-                <a href="#" onclick="window.open('https://www.google.com/maps?q=295/2+Dhaka,+Bangladesh', '_blank')">
-                    <i class="fas fa-external-link-alt"></i> View larger map
-                </a>
+                
             </div>
             
             <div class="social-icons">

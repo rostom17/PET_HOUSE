@@ -774,7 +774,7 @@
                     </svg>
                 </div>
                 <div class="brand-text">
-                    <h1>PETSROLOGY</h1>
+                    <h1>PETHOUSE</h1>
                     <p>Administrator Dashboard</p>
                 </div>
             </div>

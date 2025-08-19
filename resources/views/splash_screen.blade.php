@@ -136,7 +136,7 @@
                     <ellipse cx="27" cy="11" rx="2.2" ry="2.8" fill="#fff"/>
                 </svg>
             </div>
-            <div class="splash-title">PETSROLOGY</div>
+            <div class="splash-title">PETHOUSE</div>
             <div class="splash-slogan">
                 Your one-stop platform for all pet needs
             </div>

@@ -862,7 +862,7 @@
                         </div>
                         <div class="contact-details">
                             <h4>Email Us</h4>
-                            <p>adopt@petsrology.com</p>
+                            <p>adopt@pethouse.com</p>
                             <span class="contact-note">We respond within 24 hours</span>
                         </div>
                     </div>

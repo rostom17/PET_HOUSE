@@ -3,7 +3,7 @@
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>PETSROLOGY - Find Your Perfect Pet Companion</title>
+    <title>PETHOUSE - Find Your Perfect Pet Companion</title>
     <link href="https://fonts.googleapis.com/css2?family=Nunito:wght@400;600;700;900&display=swap" rel="stylesheet">
     <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.0.0/css/all.min.css">
     <style>
@@ -735,7 +735,7 @@
                         <ellipse cx="27" cy="11" rx="2.2" ry="2.8" fill="#fff"/>
                     </svg>
                 </div>
-                <span class="brand-text">PETSROLOGY</span>
+                <span class="brand-text">PETHOUSE</span>
             </a>
             
             <div class="navbar-actions">
@@ -794,7 +794,7 @@
     <section class="features-section">
         <div class="features-container">
             <div class="features-header">
-                <h2>Why Choose PETSROLOGY?</h2>
+                <h2>Why Choose PETHOUSE?</h2>
                 <p>We're committed to connecting pets with loving families and providing comprehensive care solutions</p>
             </div>
             
@@ -857,7 +857,7 @@
     <section class="cta-section">
         <div class="cta-container">
             <h2>Ready to Find Your Perfect Pet?</h2>
-            <p>Join thousands of pet lovers who have found their perfect companions through PETSROLOGY. Start your journey today!</p>
+            <p>Join thousands of pet lovers who have found their perfect companions through PETHOUSE. Start your journey today!</p>
             <div class="cta-buttons">
                 <a href="{{ url('/signup') }}" class="hero-btn primary cta-pulse">Create Free Account</a>
                 <a href="{{ url('/login') }}" class="hero-btn secondary">Sign In</a>
@@ -869,7 +869,7 @@
     <footer>
         <div class="footer-container">
             <div class="footer-section">
-                <h3>About PETSROLOGY</h3>
+                <h3>About PETHOUSE</h3>
                 <ul>
                     <li><a href="{{ url('/signup') }}">Our Story</a></li>
                     <li><a href="{{ url('/signup') }}">Mission & Vision</a></li>
@@ -910,7 +910,7 @@
         </div>
         
         <div class="footer-bottom">
-            <p>&copy; 2025 PETSROLOGY. All rights reserved.</p>
+            <p>&copy; 2025 PETHOUSE. All rights reserved.</p>
         </div>
     </footer>
 

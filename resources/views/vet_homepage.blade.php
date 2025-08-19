@@ -369,7 +369,7 @@
 
 <!-- Features Section -->
 <div class="features-section">
-    <h2 class="features-title">Why Choose PETSROLOGY?</h2>
+    <h2 class="features-title">Why Choose PETHOUSE?</h2>
     <div class="features-grid">
         <div class="feature-item">
             <div class="feature-icon">

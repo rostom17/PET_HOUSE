@@ -500,7 +500,7 @@
                 </div>
                 <div class="contact-item">
                     <i class="fas fa-envelope"></i>
-                    <p>contact@petsrology.com</p>
+                    <p>contact@pethouse.com</p>
                 </div>
                 <div class="contact-item">
                     <i class="fas fa-clock"></i>

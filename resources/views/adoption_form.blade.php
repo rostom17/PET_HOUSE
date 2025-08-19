@@ -1108,7 +1108,7 @@
                                 </div>
                                 <div class="checkbox-item">
                                     <input type="checkbox" id="agreement3" name="agreements[]" value="reference_check" required>
-                                    <label for="agreement3">I authorize PETSROLOGY to contact my references <span class="required">*</span></label>
+                                    <label for="agreement3">I authorize PETHOUSE to contact my references <span class="required">*</span></label>
                                 </div>
                                 <div class="checkbox-item">
                                     <input type="checkbox" id="agreement4" name="agreements[]" value="lifetime_commitment" required>
@@ -1116,7 +1116,7 @@
                                 </div>
                                 <div class="checkbox-item">
                                     <input type="checkbox" id="agreement5" name="agreements[]" value="return_policy" required>
-                                    <label for="agreement5">I agree to return the pet to PETSROLOGY if I can no longer care for it <span class="required">*</span></label>
+                                    <label for="agreement5">I agree to return the pet to PETHOUSE if I can no longer care for it <span class="required">*</span></label>
                                 </div>
                             </div>
                             <div class="error-message" id="agreementError">Please accept all required agreements</div>
@@ -1233,7 +1233,7 @@
                         <div class="contact-item">
                             <i class="fas fa-envelope"></i>
                             <strong>Email</strong>
-                            <span>adopt@petsrology.com</span>
+                            <span>adopt@pethouse.com</span>
                         </div>
                         <div class="contact-item">
                             <i class="fas fa-phone"></i>

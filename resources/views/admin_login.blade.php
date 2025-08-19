@@ -3,7 +3,7 @@
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Admin Login - PETSROLOGY</title>
+    <title>Admin Login - PETHOUSE</title>
     <link href="https://fonts.googleapis.com/css2?family=Nunito:wght@400;600;700&display=swap" rel="stylesheet">
     <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.0.0/css/all.min.css">
     <style>
@@ -295,7 +295,7 @@
                     Administrator Access
                 </div>
                 <h2>Admin Dashboard</h2>
-                <p>Secure login for PETSROLOGY administrators</p>
+                <p>Secure login for PETHOUSE administrators</p>
             </div>
             <form class="login-form" method="POST" action="{{ route('admin.login.submit') }}">
                 @if($errors->any())
@@ -345,7 +345,7 @@
                         <ellipse cx="27" cy="11" rx="2.2" ry="2.8" fill="#fff"/>
                     </svg>
                 </div>
-                <div class="brand-name">PETSROLOGY</div>
+                <div class="brand-name">PETHOUSE</div>
             </div>
             
             <div class="admin-info">

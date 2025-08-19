@@ -279,7 +279,7 @@
             </div>
         </div>
         <div class="support-contact">
-            <strong>Need help?</strong> Contact our support team at <a href="mailto:support@petsrology.com" style="color:#ff6f61;text-decoration:underline;">support@petsrology.com</a> or call +880 1777-123456.
+            <strong>Need help?</strong> Contact our support team at <a href="mailto:support@pethouse.com" style="color:#ff6f61;text-decoration:underline;">support@pethouse.com</a> or call +8801609192668.
         </div>
     </div>
 @endsection
